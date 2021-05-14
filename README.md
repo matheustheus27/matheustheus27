@@ -8,4 +8,4 @@
 
 ### About me
 
-I'm a Marketing Analyst & Games developer at @CommitJr and Computer Engineering Student at CEFET-MG
+I'm a Marketing Analyst & Games developer at CommitJr and Computer Engineering Student at CEFET-MG
