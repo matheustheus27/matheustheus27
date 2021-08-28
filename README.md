@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0000CD?style=flat&labelColor=0000CD&logo=twitter&logoColor=white&link=https://twitter.com/matheustheus27)](https://twitter.com/matheustheus27)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-0000CD?style=flat&labelColor=0000CD&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MatheusThiagoMT)](https://www.youtube.com/c/MatheusThiagoMT)
 
-### About me
+### About me:
 
 I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
