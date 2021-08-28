@@ -10,4 +10,4 @@
 
 I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
-![Matheus Thiago github stats](https://github-readme-stats.vercel.app/api?username=matheustheus27&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&theme=github_dark&show_icons=true)](https://github.com/matheustheus27/github-readme-stats)
+![Matheus Thiago github stats](https://github-readme-stats.vercel.app/api?username=matheustheus27&theme=github_dark&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&theme=github_dark&show_icons=true)](https://github.com/matheustheus27/github-readme-stats)
