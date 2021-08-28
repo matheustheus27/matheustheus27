@@ -8,4 +8,4 @@
 
 ### About me
 
-I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [![CEFET-MG](https://www.dti.cefetmg.br/wp-content/themes/administrativos-mapa-child/imagens/logo-topo-5.png){ width=50% }](https://www.cefetmg.br/)
+I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [![CEFET-MG](https://www.dti.cefetmg.br/wp-content/themes/administrativos-mapa-child/imagens/logo-topo-5.png)](https://www.cefetmg.br/){ width=50% }
