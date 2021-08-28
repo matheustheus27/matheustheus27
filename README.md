@@ -21,11 +21,11 @@ I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) 
 <br>
 
 <a href="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
+     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
 </a>  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
+     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif">
-    <img align="center" height="150" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif" />
+     <img align="center" height="150" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif" />
 </a>
