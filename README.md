@@ -1,9 +1,10 @@
 # Matheus Thiago de Souza Ferreira (matheustheus27)
 ## Welcome to my GitHub space
 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000CD?style=flat&labelColor=0000CD&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
 [![Github Badge](https://img.shields.io/badge/-Github-0000CD?style=flat&labelColor=0000CD&logo=Github&logoColor=white&link=https://github.com/matheustheus27)](https://github.com/matheustheus27)
-[![Gmail Badge](https://img.shields.io/badge/Email-0000CD?style=flat&labelColor=0000CD&logo=gmail&logoColor=white&link=mailto:matheustheus27@gmail.com)](mailto:matheustheus27@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-0000CD?style=flat&labelColor=0000CD&logo=instagram&logoColor=white&link=https://www.instagram.com/matheustheus27/)](https://www.instagram.com/matheustheus27/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-0000CD?style=flat&labelColor=0000CD&logo=gmail&logoColor=white&link=mailto:matheustheus27@gmail.com)](mailto:matheustheus27@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-0000CD?style=flat&labelColor=0000CD&logo=instagram&logoColor=white&link=https://www.instagram.com/matheustheus27/)](https://www.instagram.com/matheustheus27/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0000CD?style=flat&labelColor=0000CD&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusthiago/)](https://www.linkedin.com/in/matheusthiago/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0000CD?style=flat&labelColor=0000CD&logo=twitter&logoColor=white&link=https://twitter.com/matheustheus27)](https://twitter.com/matheustheus27)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-0000CD?style=flat&labelColor=0000CD&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MatheusThiagoMT)](https://www.youtube.com/c/MatheusThiagoMT)
