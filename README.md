@@ -17,4 +17,4 @@ I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) 
 
 
 
-![Matheus Thiago github stats](https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=demo&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=demo&theme=github_dark&show_icons=true)](https://github.com/matheustheus27/github-readme-stats)
+![Matheus Thiago github stats](https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true)](https://github.com/matheustheus27/github-readme-stats)
