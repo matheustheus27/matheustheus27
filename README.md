@@ -20,8 +20,8 @@ I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) 
 ![Matheus Thiago github stats](https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true)](https://github.com/matheustheus27/github-readme-stats)
 
 <a href="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true" />
 </a>
