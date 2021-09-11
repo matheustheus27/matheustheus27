@@ -28,6 +28,6 @@ I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) 
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true"/>
 </a>
 
-<a href="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif">
- <img align="center" height="150" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif"/>
+<a alt="It's Me, Matheus!" href="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif">
+ <img align="center" height="120" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif"/>
 </a>
