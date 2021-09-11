@@ -29,5 +29,5 @@ I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) 
 </a>
 
 <a alt="It's Me, Matheus!" href="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif">
- <img align="center" height="120" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif"/>
+ <img align="center" height="140" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif"/>
 </a>
