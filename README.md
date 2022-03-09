@@ -11,7 +11,7 @@
 
 ### About me:
 
-I'm a Marketing Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+I'm a Back-end developer at [Azapfy](https://www.azapfy.com.br/), Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
 
 <h3 align="left">Languages and Tools:</h3>
