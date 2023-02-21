@@ -1,4 +1,6 @@
 # Matheus Thiago de Souza Ferreira (matheustheus27)
+Since 1998 seeking new knowledge
+
 ### Welcome to my GitHub space
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000CD?style=flat&labelColor=0000CD&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
