@@ -11,7 +11,8 @@
 
 ### About me:
 
-I'm a Back-end developer at [Azapfy](https://www.azapfy.com.br/), Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games Developer, Ex-member and Support in Game Development at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble), the game developed by us at Java Gang for [Commit Jr](https://commitjr.com/): 
 
 
 <h3 align="left">Languages and Tools:</h3>
