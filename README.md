@@ -32,6 +32,6 @@ Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble)
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true"/>
 </a>
 
-<a alt="It's Me, Matheus!" href="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif">
- <img align="center" height="140" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Matheus-8-bits.gif"/>
+<a alt="It's Me, Matheus!" href="https://github.com/matheustheus27/matheustheus27/blob/main/Pixel-Art.gif">
+ <img align="center" height="140" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Pixel-Art.gif"/>
 </a>
