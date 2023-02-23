@@ -15,6 +15,7 @@ Since 1998 seeking new knowledge
 
 I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games Developer, Ex-member and Support in Game Development at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
+[![Logo Bubble](https://play-lh.googleusercontent.com/_EY60qxLc1KWexQNDVv0HzPAc01F2QgPhJD220PEXU6yqlUP4v1hVv4TSI5x9e0SVSw=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.commitjr.Bubble)
 Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble), the game developed by us at Java Gang for [Commit Jr](https://commitjr.com/): 
 
 
