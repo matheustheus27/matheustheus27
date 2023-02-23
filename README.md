@@ -17,6 +17,7 @@ I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games De
 
 
 Meet Bubble. The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/):
+
 <a href="https://play.google.com/store/apps/details?id=com.commitjr.Bubble" target="_blank"> <img src="https://play-lh.googleusercontent.com/_EY60qxLc1KWexQNDVv0HzPAc01F2QgPhJD220PEXU6yqlUP4v1hVv4TSI5x9e0SVSw=w240-h480-rw" alt="Bubble Logo" width="50" height="50"/> </a> 
 
 
