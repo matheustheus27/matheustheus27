@@ -8,8 +8,8 @@ I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games De
 
 Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble). The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/).
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-552583?style=flat&labelColor=552583&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
-[![Github Badge](https://img.shields.io/badge/-Github-0000CD?style=flat&labelColor=552583&logo=Github&logoColor=white&link=https://github.com/matheustheus27)](https://github.com/matheustheus27)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000CD?style=flat&labelColor=0000CD&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
+[![Github Badge](https://img.shields.io/badge/-Github-0000CD?style=flat&labelColor=0000CD&logo=Github&logoColor=white&link=https://github.com/matheustheus27)](https://github.com/matheustheus27)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0000CD?style=flat&labelColor=0000CD&logo=gmail&logoColor=white&link=mailto:matheustheus27@gmail.com)](mailto:matheustheus27@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0000CD?style=flat&labelColor=0000CD&logo=instagram&logoColor=white&link=https://www.instagram.com/matheustheus27/)](https://www.instagram.com/matheustheus27/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0000CD?style=flat&labelColor=0000CD&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusthiago/)](https://www.linkedin.com/in/matheusthiago/)
