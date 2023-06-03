@@ -22,7 +22,7 @@ Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble)
 
 
 <br>
- <h3 align="left">🎖️GitHub Stats:</h3>
+ <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Military Medal" width="20" height="20" /> GitHub Stats:</h3>
 <a href="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=dark_dimmed">
 <img align="center" height="132" src="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=darkhub&no-frame=true&row=1&no-bg=true"/>
 </a>
