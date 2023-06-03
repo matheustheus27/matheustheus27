@@ -1,15 +1,13 @@
 # Matheus Thiago de Souza Ferreira (matheustheus27)
-Since 1998 seeking new knowledge
-
 #### It's Me, Matheus!
 
 ### About me:
+Since 1998 seeking new knowledge
 
 I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games Developer, Ex-member and Support in Games Development at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
-Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble). The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/):
+Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble). The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/).
 
-<a href="https://play.google.com/store/apps/details?id=com.commitjr.Bubble" target="_blank"> <img src="https://play-lh.googleusercontent.com/_EY60qxLc1KWexQNDVv0HzPAc01F2QgPhJD220PEXU6yqlUP4v1hVv4TSI5x9e0SVSw=w240-h480-rw" alt="Bubble Logo" width="50" height="50"/> </a> 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0000CD?style=flat&labelColor=0000CD&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
 [![Github Badge](https://img.shields.io/badge/-Github-0000CD?style=flat&labelColor=0000CD&logo=Github&logoColor=white&link=https://github.com/matheustheus27)](https://github.com/matheustheus27)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0000CD?style=flat&labelColor=0000CD&logo=gmail&logoColor=white&link=mailto:matheustheus27@gmail.com)](mailto:matheustheus27@gmail.com)
