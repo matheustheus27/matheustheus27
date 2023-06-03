@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Lotus%20Position%20Medium-Dark%20Skin%20Tone.png" alt="Man in Lotus Position Medium-Dark Skin Tone" width="40" height="40" /> Matheus Thiago de Souza Ferreira (matheustheus27)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Lotus%20Position%20Medium-Dark%20Skin%20Tone.png" alt="Man in Lotus Position Medium-Dark Skin Tone" width="35" height="35" /> Matheus Thiago de Souza Ferreira (matheustheus27)
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Man Raising Hand Medium-Dark Skin Tone" width="20" height="20" /> It's Me, Matheus!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="20" height="20" /> About me:
