@@ -27,7 +27,7 @@ Meet [Bubble](https://play.google.com/store/apps/details?id=com.commitjr.Bubble)
 
 <br>
 <a href="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=dark_dimmed">
-<img align="center" height="132" src="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=dark_dimmed&no-frame=true&row=1&no-bg=true"/>
+<img align="center" height="132" src="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=gruvbox&no-frame=true&row=1&no-bg=true"/>
 </a>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
