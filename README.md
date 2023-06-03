@@ -1,7 +1,7 @@
 # Matheus Thiago de Souza Ferreira (matheustheus27)
 #### It's Me, Matheus!
 
-### About me:
+### 👨🏾‍💼About me:
 Since 1998 seeking new knowledge
 
 I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games Developer, Ex-member and Support in Games Development at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
