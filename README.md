@@ -7,7 +7,7 @@
 
 Since 1998 seeking new knowledge
 
-I'm a Back-end Developer at [Azapfy](https://www.azapfy.com.br/), Indie Games Developer, Ex-member and Support in Games Development at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+Indie Games Developer and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
 
 Meet [Bubble](https://github.com/CommitJr/bubble). The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="15" height="15" />
 
