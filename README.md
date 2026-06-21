@@ -1,49 +1,82 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Lotus%20Position%20Medium-Dark%20Skin%20Tone.png" alt="Man in Lotus Position Medium-Dark Skin Tone" width="35" height="35" /> Matheus Ferreira (matheustheus27)
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Man Raising Hand Medium-Dark Skin Tone" width="18" height="18" /> It's-a me, Matheus!
+# 🌌 Matheus Ferreira
+### Software Developer & Game Developer
 
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_USER_LINKEDIN" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(29, 78, 216, 0.3);"/>
+  </a>
+  <a href="https://SEU_DOMINIO_GLASS_HUB.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Glass--Hub-06B6D4?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);"/>
+  </a>
+</p>
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> About me:
+### ⚡ About Me
 
-Since 1998 seeking new knowledge
+"Since 1998 seeking new knowledge."
 
-Indie Games Developer and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+I am a software developer dedicated to crafting robust backend architectures, efficient integration logic, and seamless game development. Guided by a philosophy of high independence between components and clean, self-explanatory code, I aim to build systems that are accessible, lightweight, and inspiring. My ultimate goal is to leverage technology to create efficient and open-source solutions that empower everyone.
 
-Meet [Bubble](https://github.com/CommitJr/bubble). The game developed by us at Java Gang for [Commit Jr](https://commitjr.com/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="15" height="15" />
+- 💼 **Current Role:** Software Developer (Retail Integration) at **Teknisa**, designing complex system communications.
+- 🎓 **Education:** Computer Engineering Student at **CEFET-MG**.
+- 🚀 **Purpose:** Open-source enthusiast and creator of **NativeZipTools**.
+- 🎮 **Background:** Co-developer and project planner of *Bubble* (officially released on Google Play) at Commit Jr.
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium-Dark%20Skin%20Tone.png" alt="Man Detective Medium-Dark Skin Tone" width="25" height="25" /> My Social Networks:
+### 🛠️ Core Stack & Technologies
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000CD?style=flat&labelColor=0000CD&logo=facebook&logoColor=white&link=https://www.facebook.com/matheustheus27)](https://www.facebook.com/matheustheus27)
-[![Github Badge](https://img.shields.io/badge/-Github-0000CD?style=flat&labelColor=0000CD&logo=Github&logoColor=white&link=https://github.com/matheustheus27)](https://github.com/matheustheus27)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-0000CD?style=flat&labelColor=0000CD&logo=gmail&logoColor=white&link=mailto:matheustheus27@gmail.com)](mailto:matheustheus27@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-0000CD?style=flat&labelColor=0000CD&logo=instagram&logoColor=white&link=https://www.instagram.com/matheustheus27/)](https://www.instagram.com/matheustheus27/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0000CD?style=flat&labelColor=0000CD&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusthiago/)](https://www.linkedin.com/in/matheusthiago/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0000CD?style=flat&labelColor=0000CD&logo=x&logoColor=white&link=https://twitter.com/matheustheus27)](https://twitter.com/matheustheus27)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-0000CD?style=flat&labelColor=0000CD&logo=youtube&logoColor=white&link=https://www.youtube.com/@matheustheus27)](https://www.youtube.com/@matheustheus27)
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🧠 Core Languages</strong><br/>
+      • <code>PHP</code> (Slim, Symfony, Doctrine)<br/>
+      • <code>Python</code><br/>
+      • <code>C / C++</code><br/>
+      • <code>C#</code> | <code>Java</code> | <code>JavaScript</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🗄️ Databases & Cache</strong><br/>
+      • <code>MongoDB</code><br/>
+      • <code>Oracle SQL</code><br/>
+      • <code>SQL Server</code> | <code>MySQL</code><br/>
+      • <code>Redis</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🔌 Protocols & Techniques</strong><br/>
+      • <code>Webhooks</code><br/>
+      • <code>Websockets</code><br/>
+      • <code>Pooling</code> / REST APIs
+    </td>
+    <td valign="top" width="50%">
+      <strong>🏛️ Architecture & Patterns</strong><br/>
+      • <code>SOLID</code> | <code>Clean Code</code><br/>
+      • Microservices Architecture<br/>
+      • Agile Methodologies (<code>Scrum</code>)
+    </td>
+  </tr>
+</table>
 
+---
 
+### 📊 Metrics & Activity
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Medium-Dark%20Skin%20Tone.png" alt="Man Teacher Medium-Dark Skin Tone" width="25" height="25" /> Familiar Technologies:
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true&border_radius=16&brand_bold=true" alt="Github Stats" style="border-radius: 16px;"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&langs_count=5&border_radius=16&brand_bold=true" alt="Top Languages" style="border-radius: 16px;"/>
+</p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="20" height="20"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a> <a href="https://www.gimp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20"/> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="20" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="20" height="20"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="20" height="20"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/> </a> </p>
+---
 
+### 🎨 My Universe (The Setup)
 
+<p align="center">
+  <img src="./assets/Pixel-Art-Widescreen.jpg" width="100%" alt="Matheus' Setup Pixel Art" style="border-radius: 20px; box-shadow: 0px 12px 32px rgba(0,0,0,0.5);"/>
+</p>
 
- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Superhero%20Medium-Dark%20Skin%20Tone.png" alt="Man Superhero Medium-Dark Skin Tone" width="25" height="25" /> GitHub Stats:
- 
-<a href="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=dark_dimmed">
-<img align="center" height="132" src="https://github-profile-trophy.vercel.app/?username=matheustheus27&theme=darkhub&no-frame=true&row=1&no-bg=true"/>
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true"/>
-</a>  
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true">
- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustheus27&layout=compact&theme=github_dark&show_icons=true"/>
-</a>
-
-<a alt="It's Me, Matheus!" href="https://github.com/matheustheus27/matheustheus27/blob/main/Pixel-Art.gif">
- <img align="center" height="150" alt="It's Me, Matheus!" src="https://github.com/matheustheus27/matheustheus27/blob/main/Pixel-Art.gif"/>
-</a>
+<p align="center">
+  <sub><em>A window to the cosmos, mind focused on the Asus Space Edition, surrounded by Duque 🐕, Bradock 🐕, and Luna 🐕. Strong foundations, clean logic.</em></sub>
+</p>
