@@ -2,10 +2,10 @@
 ### Software Developer & Game Developer
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USER_LINKEDIN" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/matheustheus27/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(29, 78, 216, 0.3);"/>
   </a>
-  <a href="https://SEU_DOMINIO_GLASS_HUB.com" target="_blank" style="text-decoration: none;">
+  <a href="#" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Glass--Hub-06B6D4?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);"/>
   </a>
 </p>
@@ -21,7 +21,7 @@ I am a software developer dedicated to crafting robust backend architectures, ef
 - 💼 **Current Role:** Software Developer (Retail Integration) at **Teknisa**, designing complex system communications.
 - 🎓 **Education:** Computer Engineering Student at **CEFET-MG**.
 - 🚀 **Purpose:** Open-source enthusiast and creator of **NativeZipTools**.
-- 🎮 **Background:** Co-developer and project planner of *Bubble* (officially released on Google Play) at Commit Jr.
+- 🎮 **Background:** Co-developer and project planner of *Bubble* (officially released on Google Play) at **Commit Jr**.
 
 ---
 
@@ -74,7 +74,7 @@ I am a software developer dedicated to crafting robust backend architectures, ef
 ### 🎨 My Universe (The Setup)
 
 <p align="center">
-  <img src="./assets/Pixel-Art-Widescreen.jpg" width="100%" alt="Matheus' Setup Pixel Art" style="border-radius: 20px; box-shadow: 0px 12px 32px rgba(0,0,0,0.5);"/>
+  <img src="./assets/Pixel-Art-Widescreen.png" width="100%" alt="Matheus' Setup Pixel Art" style="border-radius: 20px; box-shadow: 0px 12px 32px rgba(0,0,0,0.5);"/>
 </p>
 
 <p align="center">
