@@ -49,7 +49,7 @@ I am a software developer dedicated to crafting robust backend architectures, ef
       <strong>🔌 Protocols & Techniques</strong><br/>
       • <code>Webhooks</code><br/>
       • <code>Websockets</code><br/>
-      • <code>Pooling</code> / REST APIs
+      • <code>Pooling / REST APIs</code>
     </td>
     <td valign="top" width="50%">
       <strong>🏛️ Architecture & Patterns</strong><br/>
