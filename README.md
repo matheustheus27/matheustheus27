@@ -15,7 +15,7 @@
 
 ### ⚡ About Me
 
-> "Since 1998 seeking new knowledge."
+> "Since 1998 seeking new knowledge." — Matheus Ferreira.
 
 I am a software developer dedicated to crafting robust backend architectures, efficient integration logic, and seamless game development. Guided by a philosophy of high independence between components and clean, self-explanatory code, I aim to build systems that are accessible, lightweight, and inspiring. My ultimate goal is to leverage technology to create efficient and open-source solutions that empower everyone.
 
