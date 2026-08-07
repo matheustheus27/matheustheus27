@@ -1,5 +1,5 @@
 # 🌌 Matheus Ferreira
-### Software Developer & Game Developer
+### Software Developer
 > "Somewhere, something incredible is waiting to be compiled." — Adapted from Carl Sagan.
 
 <p align="left">
