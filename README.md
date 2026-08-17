@@ -57,7 +57,8 @@ I am a software developer dedicated to crafting robust back-end architectures, e
       <strong>🏛️ Architecture & Patterns</strong><br/>
       • <code>SOLID</code> | <code>Clean Code</code><br/>
       • Microservices Architecture<br/>
-      • Agile Methodologies (<code>Scrum</code>)
+      • Agile Methodologies (<code>Scrum</code>)<br/>
+      • Atomic Design
     </td>
   </tr>
 </table>
