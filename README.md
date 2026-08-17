@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/matheustheus27/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(29, 78, 216, 0.3);"/>
   </a>
-  <a href="#" target="_blank" style="text-decoration: none;">
+  <a href="https://matheustheus27.github.io/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Glass--Hub-06B6D4?style=for-the-badge&logo=vercel&logoColor=0F172A" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);"/>
   </a>
 </p>
