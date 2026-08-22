@@ -3,8 +3,8 @@
   # 🌌 Matheus Ferreira
   ### Software Developer & Computer Engineer
 
-  <p>
-    <em>"Somewhere, something incredible is waiting to be compiled."</em> — Adapted from Carl Sagan
+  <p align="center">
+    <img src="https://glass-hub-engine.vercel.app/api/quote?quote=Somewhere%2C+something+incredible+is+waiting+to+be+compiled.&author=Adapted+from+Carl+Sagan&theme=glass-dark" alt="Carl Sagan Quote" />
   </p>
 
   <p>
@@ -14,6 +14,7 @@
     <a href="https://matheustheus27.github.io/" target="_blank">
       <img src="https://glass-hub-engine.vercel.app/api/badge?label=GlassHub&value=Cosmic+Arch&color=06B6D4&icon=glasshub&glow=true" alt="GlassHub Cosmic Arch" />
     </a>
+    <img src="https://glass-hub-engine.vercel.app/api/badge?label=Focus&value=Software+Architecture&color=10B981&icon=terminal&glow=true" alt="Focus" />
   </p>
 
 </div>
@@ -23,10 +24,12 @@
 ### ⚡ About Me & Philosophy
 
 <p align="center">
-  <img src="https://glass-hub-engine.vercel.app/api/card?title=Backend+Architecture&description=Crafting+robust+backend+architectures%2C+clean+APIs%2C+and+decoupled+microservices.&tag=PHILOSOPHY&icon=glasshub&theme=glass-dark" alt="Philosophy Card" width="100%" />
+  <img src="https://glass-hub-engine.vercel.app/api/card?title=Software+Architecture&description=Crafting+robust+software+architectures%2C+clean+APIs%2C+and+decoupled+systems.&tag=PHILOSOPHY&icon=glasshub&theme=glass-dark" alt="Philosophy Card" width="100%" />
 </p>
 
-> *"Since 1998 seeking new knowledge."* — **Matheus Ferreira**
+<p align="center">
+  <img src="https://glass-hub-engine.vercel.app/api/quote?quote=Since+1998+seeking+new+knowledge.&author=Matheus+Ferreira&theme=glass-dark" alt="Matheus Ferreira Quote" />
+</p>
 
 - 💼 **Current Role:** Software Developer (Retail Integration) at **Teknisa**, designing complex system communications.
 - 🎓 **Education:** Computer Engineering Student at **CEFET-MG**.
@@ -42,11 +45,11 @@
 </p>
 
 <p align="center">
-  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Languages&value=PHP+•+Python+•+C%2B%2B+•+C%23&color=3B82F6&glow=true" alt="Languages" />
-  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Databases&value=MongoDB+•+Oracle+•+Redis&color=06B6D4&glow=true" alt="Databases" />
+  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Languages&value=PHP+•+Python+•+C%2B%2B+•+C%23&color=3B82F6&icon=code&glow=true" alt="Languages" />
+  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Databases&value=MongoDB+•+Oracle+•+Redis&color=06B6D4&icon=database&glow=true" alt="Databases" />
   <br/>
-  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Protocols&value=Webhooks+•+WebSockets+•+REST&color=8B5CF6&glow=true" alt="Protocols" />
-  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Architecture&value=Microservices+•+SOLID&color=10B981&glow=true" alt="Architecture" />
+  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Protocols&value=Webhooks+•+WebSockets+•+REST&color=8B5CF6&icon=zap&glow=true" alt="Protocols" />
+  <img src="https://glass-hub-engine.vercel.app/api/badge?label=Architecture&value=Microservices+•+SOLID&color=10B981&icon=cpu&glow=true" alt="Architecture" />
 </p>
 
 ---
@@ -68,4 +71,12 @@
 
 <p align="center">
   <sub><em>A window to the cosmos, mind focused on the Asus Space Edition, surrounded by Duque 🐕, Bradock 🐕, and Luna 🐕. Strong foundations, clean logic.</em></sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/matheustheus27/GlassHub-Engine" target="_blank">
+    <img src="https://glass-hub-engine.vercel.app/api/badge?label=Powered+By&value=GlassHub+Engine&color=06B6D4&icon=glasshub&glow=true" alt="Powered By GlassHub Engine" />
+  </a>
 </p>
