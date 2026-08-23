@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://glass-hub-engine.vercel.app/api/card?animated=true&title=Software+Architecture&description=Crafting+robust+software+architectures%2C+clean+APIs%2C+and+decoupled+systems.&tag=PHILOSOPHY&icon=glasshub&theme=glass-dark" alt="Philosophy Card"/>
-  <img src="https://glass-hub-engine.vercel.app/api/quote?animated=true&quote=Since+1998+seeking+new+knowledge.&author=Matheus+Ferreira&theme=glass-dark" alt="Matheus Ferreira Quote" />
+  <img src="https://glass-hub-engine.vercel.app/api/quote?animated=true&quote=Since+1998+seeking+new+knowledge.&author=Matheus+Ferreira&theme=glass-dark" alt="Matheus Ferreira Quote" width="460"/>
 </p>
 
 - 💼 **Current Role:** Software Developer (Retail Integration) at **Teknisa**, designing complex system communications.
