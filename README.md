@@ -43,9 +43,10 @@
 ### 🛠️ Core Stack & Technical Architecture
 
 <p align="center">
-  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=LANGUAGES&skills=python%2Cphp%2Cjavascript%2Ctypescript%2Ccsharp&columns=3&theme=glass-dark" alt="Languages" />
-  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=FRAMEWORKS+AND+LIBRARIES&skills=nodejs%2Creact%2Cangular%2Cvue%2Ctailwind&columns=3&theme=glass-dark" alt="Frameworks" />
-  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=DATABASES&skills=mysql%2Cmongodb%2Cpostgresql%2Credis&columns=3&theme=glass-dark" alt="Databases" />
+  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=LANGUAGES&skills=python%2Cphp%2Cjavascript%2Ctypescript%2Ccsharp&columns=3&theme=glass-dark" alt="Languages" height="155"/>
+  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=FRAMEWORKS+AND+LIBRARIES&skills=nodejs%2Creact%2Cangular%2Cvue%2Ctailwind&columns=3&theme=glass-dark" alt="Frameworks" height="155"/>
+  <img src="https://glass-hub-engine.vercel.app/api/tech-stack?animated=true&title=DATABASES&skills=mysql%2Cmongodb%2Cpostgresql%2Credis&columns=3&theme=glass-dark" alt="Databases" height="150"/>
+  <img src="https://glass-hub-engine.vercel.app/api/wakatime?animated=true&username=octocat&theme=glass-dark" alt="GlassHub Wakatime"  height="150"/>
 </p>
 
 ---
