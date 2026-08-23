@@ -23,6 +23,7 @@
   <p align="center">
     <img src="https://glass-hub-engine.vercel.app/api/quote?animated=true&quote=Somewhere%2C+something+incredible+is+waiting+to+be+compiled.&author=Adapted+from+Carl+Sagan&theme=glass-dark" alt="Carl Sagan Quote" />
   </p>
+  
 ---
 
 ### ⚡ About Me & Philosophy
