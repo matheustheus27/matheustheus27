@@ -7,8 +7,7 @@
   <p>
     <a href="https://www.linkedin.com/in/matheustheus27/" target="_blank">
       <img src="https://glass-hub-engine.vercel.app/api/badge?animated=true&label=LinkedIn&value=matheustheus27&icon=linkedin&url=https%3A%2F%2Freact.dev&shape=rounded&style=glass&glow=true&theme=glass-dark" alt="LinkedIn" />
-    </a>
-    <a href="https://matheustheus27.github.io/" target="_blank">
+    </a><a href="https://matheustheus27.github.io/" target="_blank">
       <img src="https://glass-hub-engine.vercel.app/api/badge?animated=true&label=GlassHub&value=Cosmic+Arch&icon=glasshub&url=https%3A%2F%2Freact.dev&shape=rounded&style=glass&glow=true&theme=glass-dark" alt="GlassHub Cosmic Arch" />
     </a>
   </p>
