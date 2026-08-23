@@ -53,8 +53,8 @@
 ### 📊 GlassHub Dynamic Metrics & Activity
 
 <p align="center">
-  <img src="https://glass-hub-engine.vercel.app/api/activity-graph?animated=true&username=matheustheus27&theme=glass-dark" alt="GlassHub Activity Graph" height="150" />
-  <img src="https://glass-hub-engine.vercel.app/api/stats?animated=true&username=matheustheus27&theme=glass-dark" alt="GlassHub Stats" height="150" />
+  <img src="https://glass-hub-engine.vercel.app/api/activity-graph?animated=true&username=matheustheus27&theme=glass-dark" alt="GlassHub Activity Graph" height="142" />
+  <img src="https://glass-hub-engine.vercel.app/api/stats?animated=true&username=matheustheus27&theme=glass-dark" alt="GlassHub Stats" height="142" />
   <img src="https://glass-hub-engine.vercel.app/api/top-langs?animated=true&username=matheustheus27&layout=bars&theme=glass-dark&limit=5" alt="GlassHub Top Languages" height="150" />
   <img src="https://glass-hub-engine.vercel.app/api/streak?animated=true&username=matheustheus27&theme=glass-dark&glow=true" alt="GlassHub Streak" height="150" />
 </p>
