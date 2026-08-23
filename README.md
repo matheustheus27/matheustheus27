@@ -63,7 +63,7 @@
 ### 🎨 My Universe (The Setup)
 
 <p align="center">
-  <img src="https://glass-hub-engine.vercel.app/api/image-filter?animated=true&url=https%3A%2F%2Fgithub.com%2Fmatheustheus27%2Fmatheustheus27%2Fblob%2Fmain%2Fassets%2FPixel-Art-Widescreen.gif&effect=infinite-border&radius=18&glow_color=%2306B6D4&width=420&height=260" alt="GlassHub Art" width="100%"/>
+  <img src="./assets/Pixel-Art-Widescreen.gif" width="100%" alt="Matheus' Setup Pixel Art" style="border-radius: 20px; box-shadow: 0px 12px 32px rgba(6, 182, 212, 0.25); border: 1px solid rgba(6, 182, 212, 0.3);"/>
 </p>
 
 <p align="center">
