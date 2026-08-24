@@ -25,17 +25,21 @@
   
 ---
 
-### ⚡ About Me & Philosophy
+### ⚡ Philosophy
 
 <p align="center">
   <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=Software+Architecture&description=Crafting+robust+software+architectures%2C+clean+APIs%2C+and+decoupled+systems.&tag=PHILOSOPHY&icon=glasshub&theme=glass-dark" alt="Philosophy Card"/>
   <img src="https://glasshub-quasar.vercel.app/api/quote?animated=true&quote=Since+1998+seeking+new+knowledge.&author=Matheus+Ferreira&theme=glass-dark" alt="Matheus Ferreira Quote" width="460"/>
 </p>
 
-- 💼 **Current Role:** Software Developer (Retail Integration) at **Teknisa**, designing complex system communications.
-- 🎓 **Education:** Computer Engineering Student at **CEFET-MG**.
-- 🚀 **Featured Projects:** Creator of **[GlassHub Engine](https://github.com/matheustheus27/GlassHub-Engine)** & **[GlassHub EventHorizon](https://github.com/matheustheus27/GlassHubEventHorizon)**.
-- 🎮 **Background:** Co-developer and project planner of *Bubble* (released on Google Play) at **Commit Jr**.
+---
+### 👨🏾‍💻 About Me
+
+<p align="center">
+  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=💼+Current+Role&description=Software+Developer+%28Retail+Integration%29+at+Teknisa%2C+designing+complex+system+communications.&tag=BIO&icon=sparkles&theme=glass-dark" alt="GlassHub Role" width="230"/>
+  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🎓+Education&description=Computer+Engineering+Student+at+CEFET-MG.&tag=BIO&icon=glasshub&theme=glass-dark" alt="GlassHub Education" width="230"/>
+  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🚀+Projects&description=Creator+of+GlassHub+Project+Suite.&tag=BIO&icon=glasshub&theme=glass-dark" alt="GlassHub Projects" width="230"/>
+</p>
 
 ---
 
