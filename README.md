@@ -35,11 +35,20 @@
 ---
 ### 👨🏾‍💻 About Me
 
-<p align="center">
-  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=💼+Current+Role&description=Software+Developer+%28Retail+Integration%29+at+Teknisa%2C+designing+complex+system+communications.&tag=BIO&icon=sparkles&theme=glass-dark" alt="GlassHub Role" width="230"/>
-  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🎓+Education&description=Computer+Engineering+Student+at+CEFET-MG.&tag=BIO&icon=glasshub&theme=glass-dark" alt="GlassHub Education" width="230"/>
-  <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🚀+Projects&description=Creator+of+GlassHub+Project+Suite.&tag=BIO&icon=glasshub&theme=glass-dark" alt="GlassHub Projects" width="230"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.3%">
+      <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=💼+Current+Role&description=Software+Developer+%28Retail+Integration%29+at+Teknisa%2C+designing+complex+system+communications.&tag=PRO&icon=sparkles&theme=glass-dark" alt="GlassHub Role" width="100%"/>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🎓+Education&description=Computer+Engineering+Student+at+CEFET-MG.&tag=EDU&icon=glasshub&theme=glass-dark" alt="GlassHub Education" width="100%"/>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="https://glasshub-quasar.vercel.app/api/card?animated=true&title=🚀+Projects&description=Creator+of+GlassHub+Cosmic+Ecosystem.&tag=DEV&icon=glasshub&theme=glass-dark" alt="GlassHub Projects" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
