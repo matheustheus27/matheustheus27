@@ -84,7 +84,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/matheustheus27/GlassHubEngine" target="_blank">
-    <img src="https://glasshub-quasar.vercel.app/api/badge?animated=true&label=Powered+By&value=GlassHub+Quasar&icon=glasshubengine&url=https%3A%2F%2Freact.dev&shape=rounded&style=glass&glow=true&theme=glass-dark" alt="Powered By GlassHub Engine" />
+  <a href="https://github.com/matheustheus27/GlassHubQuasar" target="_blank">
+    <img src="https://glasshub-quasar.vercel.app/api/badge?animated=true&label=Powered+By&value=GlassHub+Quasar&icon=glasshubquasar&url=https%3A%2F%2Freact.dev&shape=rounded&style=glass&glow=true&theme=glass-dark" alt="Powered By GlassHub Quasar" />
   </a>
 </p>
